@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm kanmungand 👋
 
-<!--
-**kanmungand/kanmungand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring penetration tester** focused on web/API security and the security of AI systems.
+Currently on the road to **OSCP**, documenting everything I learn in public.
 
-Here are some ideas to get you started:
+- 🎯 Focus: web application & API testing, business-logic flaws, LLM/agent security
+- 📚 Now learning: Linux, networking fundamentals, Python for offensive tooling
+- 📝 Writeups & notes: [security-notes](https://github.com/kanmungand/security-notes)
+- 🌍 Remote, based in Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Progress
+
+| Milestone | Status |
+| --------- | ------ |
+| OverTheWire Bandit | 🔜 |
+| PortSwigger Web Security Academy (60+ labs) | 🔜 |
+| HackTheBox / TryHackMe machines | 🔜 |
+| OSCP | 🔜 |
+
+<!-- Swap these for real badges once you have profiles:
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
 -->
+
+## Toolbox
+`Kali Linux` · `Burp Suite` · `Nmap` · `Python` · `Bash` · `Wireshark` · `Obsidian`
+
+---
+<sub>All testing is performed only in legal lab environments or within authorized bug bounty scopes.</sub>
